@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"librarium-of-neoni/00-system/archives/the-archives-of-neo-nightcørd/yaml","permalink":"/librarium-of-neoni/00-system/archives/the-archives-of-neo-nightcørd/yaml/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"yaml","permalink":"/yaml/","dg-note-properties":{}}
 ---
 
 Prologue: The Incursion.
