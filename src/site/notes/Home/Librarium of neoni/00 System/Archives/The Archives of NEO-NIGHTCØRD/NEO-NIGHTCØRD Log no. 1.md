@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/librarium-of-neoni/00-system/archives/the-archives-of-neo-nightcord/neo-nightcord-log-no-1/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"librarium-of-neoni/00-system/archives/the-archives-of-neo-nightcørd/yaml","permalink":"/librarium-of-neoni/00-system/archives/the-archives-of-neo-nightcørd/yaml/","dg-note-properties":{}}
 ---
 
 Prologue: The Incursion.
